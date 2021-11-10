@@ -1,0 +1,15 @@
+ <html>
+  <header>
+   <h1>First time try at html coding</h1>
+  </header>
+   <body>
+    <h2>lets see how I do.</h2>
+     <ol>
+      <li>I'm using atom</li>
+       <li>I'm using git</li>
+      <li>I'm using github</li>
+       <li>I being taught by Easy Peasy All In One Homeshool</li>
+      <li>I might get help from a friend with this type of thing</li>
+     </ol>
+   </body> 
+</html>
